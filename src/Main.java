@@ -6,6 +6,6 @@ public class Main {
 
         CSCI211MenuManager myCSCI211MenuManager = new CSCI211MenuManager();
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it. ..
+        // to see how IntelliJ IDEA suggests fixing it.
     }
 }
